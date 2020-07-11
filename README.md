@@ -1,8 +1,6 @@
+# OpenGL starte project
+This is a sample C++ OpenGL project with everything setup and ready to go! Just run `build` and your game is running!
+It includes a demo with Textures.
 
-
-# How to run
-    1. open a new terminal window
-    2. write the following command:
-        `# g++ main.cpp -o game.exe`
-    3. run the game using:
-        `# game`
+# Credits 
+The openGL logo is made by [The Cherno](https://www.youtube.com/user/TheChernoProject)
